@@ -1,0 +1,37 @@
+
+/* section du header */
+.principale
+{
+    margin-top:75px;
+}
+header
+{
+    background-image:url('../images/bulding.jpg');
+    background-size:cover;
+    height: 500px;
+}
+header .contenu
+{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(51, 50, 50,.2);
+    height: 100%;
+    align-items: center;    
+}
+header .contenu h1
+{
+    font-size: 750%;
+    color: white;
+    border-top: 3px solid orange;
+}
+
+/* fin e la section header */
+.hr
+{
+
+}
+.services
+{
+    margin: 20px;
+    text-align: center;
+}
